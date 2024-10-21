@@ -3,6 +3,6 @@ print('hello this is world')
 # 在github上面修改了
 print('hello world too')
 
-for i in range(1, 11):
+for i in range(1, 110):
     print(i)
     print(i+1)
